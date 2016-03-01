@@ -4,7 +4,7 @@ Transform documents in ISO 4217 format to RDF. Basically, there is only one docu
 
 ## References ##
 
-http://www.currency-iso.org
-http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=64758
-http://saxonica.com/products/products.xml
-http://sourceforge.net/projects/saxon/files/Saxon-HE/9.7/
+- http://www.currency-iso.org
+- http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=64758
+- http://saxonica.com/products/products.xml
+- http://sourceforge.net/projects/saxon/files/Saxon-HE/9.7/
